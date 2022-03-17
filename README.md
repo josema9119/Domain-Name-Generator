@@ -1,3 +1,5 @@
+# DOMAIN NAME GENERATOR
+Ejercicio en el que se simula un generador de dominios, para el cual declaramos unos strings y a traves de la funcion 'for' hacemos que se recorra cada variable hasta el final retornando la suma de cada una hasta terminar con todos los strings.
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
